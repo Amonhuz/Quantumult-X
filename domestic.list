@@ -35,14 +35,14 @@ user-agent, Steam*, noProxy
 host-suffix, steamcontent.com, noProxy
 	
 # > TeamViewer	
-ip-cidr, 185.188.32.0/24, no-resolve, noProxy
-ip-cidr, 185.188.33.0/24, no-resolve, noProxy
-ip-cidr, 185.188.34.0/24, no-resolve, noProxy
-ip-cidr, 185.188.35.0/24, no-resolve, noProxy
-ip-cidr6, 2a0b:b580::/48, no-resolve, noProxy
-ip-cidr6, 2a0b:b581::/48, no-resolve, noProxy
-ip-cidr6, 2a0b:b582::/48, no-resolve, noProxy
-ip-cidr6, 2a0b:b583::/48, no-resolve, noProxy
+ip-cidr, 185.188.32.0/24, noProxy
+ip-cidr, 185.188.33.0/24, noProxy
+ip-cidr, 185.188.34.0/24, noProxy
+ip-cidr, 185.188.35.0/24, noProxy
+ip-cidr6, 2a0b:b580::/48, noProxy
+ip-cidr6, 2a0b:b581::/48, noProxy
+ip-cidr6, 2a0b:b582::/48, noProxy
+ip-cidr6, 2a0b:b583::/48, noProxy
 	
 # Domestic	
 host-suffix, 12306.cn, noProxy
@@ -296,4 +296,4 @@ host-suffix, zhimg.com, noProxy
 host-suffix, zimuzu.tv, noProxy
 host-suffix, zmz002.com, noProxy
 	
-ip-cidr, 1.255.62.0/24, no-resolve, noProxy
+ip-cidr, 1.255.62.0/24, noProxy
