@@ -1,0 +1,22 @@
+user-agent, *com.apple.mobileme.fmip1, Apple
+user-agent, *WeatherFoundation*, Apple
+user-agent, %E5%9C%B0%E5%9B%BE*, Apple
+user-agent, %E8%AE%BE%E7%BD%AE*, Apple
+user-agent, AppStore*, Apple
+user-agent, com.apple.appstored*, Apple
+user-agent, com.apple.geod*, Apple
+user-agent, com.apple.Maps, Apple
+user-agent, FindMyFriends*, Apple
+user-agent, FindMyiPhone*, Apple
+user-agent, FMDClient*, Apple
+user-agent, FMFD*, Apple
+user-agent, fmflocatord*, Apple
+user-agent, geod*, Apple
+user-agent, locationd*, Apple
+user-agent, Maps*, Apple
+user-agent, TestFlight*, Apple
+ 
+host-suffix, Apple.com, Apple
+host-suffix, itunes.com, Apple
+host-suffix, mzstatic.com, Apple
+host, api.smoot.apple.cn, Apple
