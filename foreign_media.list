@@ -1,0 +1,129 @@
+# > ABC	
+host-suffix, edgedatg.com, Media
+host-suffix, go.com, Media
+	
+# > AbemaTV	
+user-agent, AbemaTV*, Media
+host-suffix, abema.io, Media
+host-suffix, ameba.jp, Media
+host-suffix, hayabusa.io, Media
+host, abematv.akamaized.net, Media
+host, ds-linear-abematv.akamaized.net, Media
+host, ds-vod-abematv.akamaized.net, Media
+host, linear-abematv.akamaized.net, Media
+	
+# > Amazon Prime Video	
+user-agent, InstantVideo.US*, Media
+user-agent, Prime%20Video*, Media
+host-suffix, aiv-cdn.net, Media
+host-suffix, amazonaws.com, Media
+host-suffix, amazonvideo.com, Media
+host-suffix, llnwd.net, Media
+	
+# > Bahamut	
+user-agent, Anime*, Media
+host-suffix, bahamut.com.tw, Media
+host-suffix, gamer.com.tw, Media
+host-suffix, hinet.net, Media
+	
+# > BBC	
+user-agent, BBCiPlayer*, Media
+host-keyword, bbcfmt, Media
+host-keyword, co.uk, Media
+host-keyword, uk-live, Media
+host-suffix, bbc.co, Media
+host-suffix, bbc.co.uk, Media
+host-suffix, bbc.com, Media
+host-suffix, bbci.co, Media
+host-suffix, bbci.co.uk, Media
+	
+# > CHOCO TV	
+user-agent, TwDramas*, Media
+host-suffix, chocotv.com.tw, Media
+	
+# > Now E	
+user-agent, PCCW*, Media
+host-keyword, nowe, Media
+host, bcbolthboa-a.akamaihd.net, Media
+host-suffix, nowe.com, Media
+host-suffix, youboranqs01.com, Media
+	
+# > Epicgames	
+host-keyword, epicgames, Media
+host-suffix, helpshift.com, Media
+	
+# > Fox+	
+user-agent, FOX%20NOW*, Media
+user-agent, FOXPlus*, Media
+host-keyword, foxplus, Media
+host-suffix, config.fox.com, Media
+host-suffix, emome.net, Media
+host-suffix, fox.com, Media
+host-suffix, foxdcg.com, Media
+host-suffix, foxnow.com, Media
+host-suffix, foxplus.com, Media
+host-suffix, foxplay.com, Media
+host-suffix, ipinfo.io, Media
+host-suffix, mstage.io, Media
+host-suffix, now.com, Media
+host-suffix, theplatform.com, Media
+host-suffix, urlload.net, Media
+	
+# > HBO && HBO Go	
+user-agent, HBO%20NOW*, Media
+host-suffix, execute-api.ap-southeast-1.amazonaws.com, Media
+host-suffix, hbo.com, Media
+host-suffix, hboasia.com, Media
+host-suffix, hbogo.com, Media
+host-suffix, hbogoasia.hk, Media
+	
+# > Hulu	
+user-agent, Hulu*, Media
+host-suffix, happyon.jp, Media
+host-suffix, hulu.com, Media
+host-suffix, huluim.com, Media
+host-suffix, hulustream.com, Media
+	
+# > Imkan	
+host-suffix, imkan.tv, Media
+	
+# > JOOX	
+user-agent, WeMusic*, Media
+user-agent, JOOX*, Media
+host-suffix, joox.com, Media
+	
+# > MytvSUPER	
+user-agent, mytv*, Media
+host-keyword, nowtv100, Media
+host-keyword, rthklive, Media
+host-suffix, mytvsuper.com, Media
+host-suffix, tvb.com, Media
+	
+# > Netflix	
+host-suffix, netflix.com, Media
+host-suffix, netflix.net, Media
+host-suffix, nflxext.com, Media
+host-suffix, nflximg.com, Media
+host-suffix, nflximg.net, Media
+host-suffix, nflxso.net, Media
+host-suffix, nflxvideo.net, Media
+	
+# > Pandora	
+host-suffix, pandora.com, Media
+	
+# > Sky GO	
+user-agent, skygo*, Media
+host-suffix, sky.com, Media
+host-suffix, skygo.co.nz, Media
+	
+# > SoundCloud	
+user-agent, SoundCloud*, Media
+	
+# > Spotify	
+user-agent, *Spotify*, Media
+host-keyword, spotify, Media
+host-suffix, scdn.co, Media
+host-suffix, spoti.fi, Media
+	
+# > viuTV	
+host-suffix, viu.tv, Media

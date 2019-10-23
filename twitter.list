@@ -1,0 +1,5 @@
+user-agent, *Tweetbot*, Twitter
+	
+host-keyword, twitter, Twitter
+	
+host-suffix, twimg.com, Twitter

@@ -1,0 +1,768 @@
+# > UA	
+user-agent, %E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*, useProxy
+user-agent, AwemeI18n*, useProxy
+user-agent, Coinbase*, useProxy
+user-agent, Instagram*, useProxy
+user-agent, Resilio Sync*, useProxy
+user-agent, WhatsApp*, useProxy
+	
+# > Line	
+host-suffix, lin.ee, useProxy
+host-suffix, line.me, useProxy
+host-suffix, line.naver.jp, useProxy
+host-suffix, line-apps.com, useProxy
+host-suffix, line-cdn.net, useProxy
+host-suffix, line-scdn.net, useProxy
+host-suffix, nhncorp.jp, useProxy
+	
+# > Microsoft	
+user-agent, OneDrive*, useProxy
+host-keyword, microsoft, useProxy
+host-suffix, hotmail.com, useProxy
+host-suffix, live.com, useProxy
+host-suffix, live.net, useProxy
+host-suffix, msn.com, useProxy
+host-suffix, office.com, useProxy
+host-suffix, office.net, useProxy
+host-suffix, outlook.com, useProxy
+	
+# > Spark	
+host-suffix, api.amplitude.com, useProxy
+host-suffix, app.smartmailcloud.com, useProxy
+host-suffix, gate.hockeyapp.net, useProxy
+host-suffix, smartmailcloud.com, useProxy
+	
+# > Speedtest	
+host-keyword, speedtest, useProxy
+host-suffix, ooklaserver.net, useProxy
+	
+# > Steam	
+host-suffix, fanatical.com, useProxy
+host-suffix, humblebundle.com, useProxy
+host-suffix, steamcommunity.com, useProxy
+host-suffix, steampowered.com, useProxy
+host-suffix, steamstatic.com, useProxy
+	
+# > Top blocked sites	
+host-suffix, 2o7.net, useProxy
+host-suffix, 4everProxy.com, useProxy
+host-suffix, 4shared.com, useProxy
+host-suffix, 4sqi.net, useProxy
+host-suffix, 9to5mac.com, useProxy
+host-suffix, abpchina.org, useProxy
+host-suffix, accountkit.com, useProxy
+host-suffix, adblockplus.org, useProxy
+host-suffix, adobe.com, useProxy
+host-suffix, adobedtm.com, useProxy
+host-suffix, aerisapi.com, useProxy
+host-suffix, akamaihd.net, useProxy
+host-suffix, airtable.com, useProxy
+host-suffix, alfredapp.com, useProxy
+host-suffix, allconnected.co, useProxy
+host-suffix, amazon.com, useProxy
+host-suffix, amazonaws.com, useProxy
+host-suffix, ampproject.com, useProxy
+host-suffix, ampproject.net, useProxy
+host-suffix, ampproject.org, useProxy
+host-suffix, anaconda.com, useProxy
+host-suffix, ancsconf.org, useProxy
+host-suffix, android.com, useProxy
+host-suffix, androidify.com, useProxy
+host-suffix, android-x86.org, useProxy
+host-suffix, angularjs.org, useProxy
+host-suffix, anthonycalzadilla.com, useProxy
+host-suffix, aol.com, useProxy
+host-suffix, aolcdn.com, useProxy
+host-suffix, api.mixpanel.com, useProxy
+host-suffix, api.tiktokv.com, useProxy
+host-suffix, api.urbandictionary.com, useProxy
+host-suffix, apigee.com, useProxy
+host-suffix, apk-dl.com, useProxy
+host-suffix, apkpure.com, useProxy
+host-suffix, appdownloader.net, useProxy
+host-suffix, apple-dns.net, useProxy
+host-suffix, app-measurement.com, useProxy
+host-suffix, appshopper.com, useProxy
+host-suffix, arcgis.com, useProxy
+host-suffix, archive.is, useProxy
+host-suffix, archive.org, useProxy
+host-suffix, archives.gov, useProxy
+host-suffix, armorgames.com, useProxy
+host-suffix, aspnetcdn.com, useProxy
+host-suffix, async.be, useProxy
+host-suffix, att.com, useProxy
+host-suffix, avgle.com, useProxy
+host-suffix, awsstatic.com, useProxy
+host-suffix, azure.com, useProxy
+host-suffix, azureedge.net, useProxy
+host-suffix, azurewebsites.net, useProxy
+host-suffix, badoo.com, useProxy
+host-suffix, bandisoft.com, useProxy
+host-suffix, bbtoystore.com, useProxy
+host-suffix, betvictor.com, useProxy
+host-suffix, bigsound.org, useProxy
+host-suffix, bing.com, useProxy
+host-suffix, bing.net, useProxy
+host-suffix, bintray.com, useProxy
+host-suffix, bit.com, useProxy
+host-suffix, bit.do, useProxy
+host-suffix, bit.ly, useProxy
+host-suffix, bitbucket.org, useProxy
+host-suffix, bitcointalk.org, useProxy
+host-suffix, bitshare.com, useProxy
+host-suffix, bkrtx.com, useProxy
+host-suffix, blog.com, useProxy
+host-suffix, blogcdn.com, useProxy
+host-suffix, blogger.com, useProxy
+host-suffix, bloglovin.com, useProxy
+host-suffix, blogsmithmedia.com, useProxy
+host-suffix, blogspot.hk, useProxy
+host-suffix, bloomberg.cn, useProxy
+host-suffix, bloomberg.com, useProxy
+host-suffix, books.com.tw, useProxy
+host-suffix, boomtrain.com, useProxy
+host-suffix, botanwang.com, useProxy
+host-suffix, box.com, useProxy
+host-suffix, box.net, useProxy
+host-suffix, boxun.com, useProxy
+host-suffix, cachefly.net, useProxy
+host-suffix, cbc.ca, useProxy
+host-suffix, cdn.segment.com, useProxy
+host-suffix, cdnst.net, useProxy
+host-suffix, celestrak.com, useProxy
+host-suffix, census.gov, useProxy
+host-suffix, certificate-transparency.org, useProxy
+host-suffix, chinadigitaltimes.net, useProxy
+host-suffix, chinatimes.com, useProxy
+host-suffix, chrome.com, useProxy
+host-suffix, chromecast.com, useProxy
+host-suffix, chromercise.com, useProxy
+host-suffix, chromestatus.com, useProxy
+host-suffix, chromium.org, useProxy
+host-suffix, cl.ly, useProxy
+host-suffix, cloudflare.com, useProxy
+host-suffix, cloudfront.net, useProxy
+host-suffix, cloudgarage.jp, useProxy
+host-suffix, cloudmagic.com, useProxy
+host-suffix, cmail19.com, useProxy
+host-suffix, cnet.com, useProxy
+host-suffix, cnn.com, useProxy
+host-suffix, cocoapods.org, useProxy
+host-suffix, comodoca.com, useProxy
+host-suffix, content.office.net, useProxy
+host-suffix, culturedcode.com , useProxy
+host-suffix, cygames.jp , useProxy
+host-suffix, d.pr, useProxy
+host-suffix, danilo.to, useProxy
+host-suffix, daolan.net, useProxy
+host-suffix, data-vocabulary.org, useProxy
+host-suffix, dayone.me, useProxy
+host-suffix, db.tt, useProxy
+host-suffix, dcmilitary.com, useProxy
+host-suffix, deja.com, useProxy
+host-suffix, demdex.net, useProxy
+host-suffix, deskconnect.com, useProxy
+host-suffix, digisfera.com, useProxy
+host-suffix, digitaltrends.com, useProxy
+host-suffix, disconnect.me, useProxy
+host-suffix, disq.us, useProxy
+host-suffix, disqus.com, useProxy
+host-suffix, disquscdn.com, useProxy
+host-suffix, dmm.co.jp, useProxy
+host-suffix, dnsimple.com, useProxy
+host-suffix, docker.com, useProxy
+host-suffix, doub.io, useProxy
+host-suffix, dowjones.com, useProxy
+host-suffix, dribbble.com, useProxy
+host-suffix, droplr.com, useProxy
+host-suffix, duckduckgo.com, useProxy
+host-suffix, dueapp.com, useProxy
+host-suffix, dw.com, useProxy
+host-suffix, easybib.com, useProxy
+host-suffix, economist.com, useProxy
+host-suffix, edgecastcdn.net, useProxy
+host-suffix, edgekey.net, useProxy
+host-suffix, edgesuite.net, useProxy
+host-suffix, engadget.com, useProxy
+host-suffix, entrust.net, useProxy
+host-suffix, eurekavpt.com, useProxy
+host-suffix, evernote.com, useProxy
+host-suffix, extmatrix.com, useProxy
+host-suffix, eyny.com, useProxy
+host-suffix, fabric.io, useProxy
+host-suffix, fast.com, useProxy
+host-suffix, fastly.net, useProxy
+host-suffix, fastmail.com, useProxy
+host-suffix, fc2.com, useProxy
+host-suffix, feedburner.com, useProxy
+host-suffix, feedly.com, useProxy
+host-suffix, feedsportal.com, useProxy
+host-suffix, fiftythree.com, useProxy
+host-suffix, firebaseio.com, useProxy
+host-suffix, flexibits.com, useProxy
+host-suffix, flickr.com, useProxy
+host-suffix, flipboard.com, useProxy
+host-suffix, flipkart.com, useProxy
+host-suffix, flitto.com, useProxy
+host-suffix, flurry.com, useProxy
+host-suffix, freeopenProxy.com, useProxy
+host-suffix, fubo.tv, useProxy
+host-suffix, fullstory.com, useProxy
+host-suffix, fzlm.net, useProxy
+host-suffix, g.co, useProxy
+host-suffix, gabia.net, useProxy
+host-suffix, garena.com, useProxy
+host-suffix, gameloft.com, useProxy
+host-suffix, geni.us, useProxy
+host-suffix, get.how, useProxy
+host-suffix, getcloudapp.com, useProxy
+host-suffix, getfoxyProxy.org, useProxy
+host-suffix, getlantern.org, useProxy
+host-suffix, getmdl.io, useProxy
+host-suffix, getpricetag.com, useProxy
+host-suffix, gfw.press, useProxy
+host-suffix, gfx.ms, useProxy
+host-suffix, ggpht.com, useProxy
+host-suffix, ghostnoteapp.com, useProxy
+host-suffix, git.io, useProxy
+host-suffix, gitbook.com, useProxy
+host-suffix, globalsign.com, useProxy
+host-suffix, gmocloud.com, useProxy
+host-suffix, gmodules.com, useProxy
+host-suffix, go.com, useProxy
+host-suffix, go.jp, useProxy
+host-suffix, godaddy.com, useProxy
+host-suffix, golang.org, useProxy
+host-suffix, gongm.in, useProxy
+host-suffix, goo.gl, useProxy
+host-suffix, goodreaders.com, useProxy
+host-suffix, goodreads.com, useProxy
+host-suffix, gravatar.com, useProxy
+host-suffix, gstatic.cn, useProxy
+host-suffix, gstatic.com, useProxy
+host-suffix, gunsamerica.com, useProxy
+host-suffix, gvt0.com, useProxy
+host-suffix, gvt1.com, useProxy
+host-suffix, helpshift.com, useProxy
+host-suffix, hinet.net, useProxy
+host-suffix, hockeyapp.net, useProxy
+host-suffix, homedepot.com, useProxy
+host-suffix, hootsuite.com, useProxy
+host-suffix, howtoforge.com, useProxy
+host-suffix, iam.soy, useProxy
+host-suffix, icoco.com, useProxy
+host-suffix, icons8.com, useProxy
+host-suffix, ift.tt, useProxy
+host-suffix, ifttt.com, useProxy
+host-suffix, imageshack.us, useProxy
+host-suffix, img.ly, useProxy
+host-suffix, imgur.com, useProxy
+host-suffix, imore.com, useProxy
+host-suffix, ingress.com , useProxy
+host-suffix, insder.co, useProxy
+host-suffix, instapaper.com, useProxy
+host-suffix, instructables.com, useProxy
+host-suffix, io.io, useProxy
+host-suffix, ip.sb, useProxy
+host-suffix, ipaddress.com, useProxy
+host-suffix, ipn.li, useProxy
+host-suffix, is.gd, useProxy
+host-suffix, ishowsapp.com, useProxy
+host-suffix, issuu.com, useProxy
+host-suffix, itgonglun.com, useProxy
+host-suffix, itun.es, useProxy
+host-suffix, ixquick.com, useProxy
+host-suffix, j.mp, useProxy
+host-suffix, javbus.com, useProxy
+host-suffix, js.revsci.net, useProxy
+host-suffix, jshint.com, useProxy
+host-suffix, jtvnw.net, useProxy
+host-suffix, justgetflux.com, useProxy
+host-suffix, kakao.co.kr, useProxy
+host-suffix, kakao.com, useProxy
+host-suffix, kakaocdn.net, useProxy
+host-suffix, kat.cr, useProxy
+host-suffix, kenengba.com, useProxy
+host-suffix, kik.com, useProxy
+host-suffix, klip.me, useProxy
+host-suffix, leancloud.com, useProxy
+host-suffix, leetcode.com, useProxy
+host-suffix, lhie1.com, useProxy
+host-suffix, libsyn.com, useProxy
+host-suffix, licdn.com, useProxy
+host-suffix, lightboxcdn.com, useProxy
+host-suffix, like.com, useProxy
+host-suffix, linkedin.com, useProxy
+host-suffix, linode.com, useProxy
+host-suffix, lithium.com, useProxy
+host-suffix, littlehj.com, useProxy
+host-suffix, livefilestore.com, useProxy
+host-suffix, llnwd.net, useProxy
+host-suffix, localnetwork.uop, useProxy
+host-suffix, logmein.com, useProxy
+host-suffix, macid.co, useProxy
+host-suffix, macromedia.com, useProxy
+host-suffix, macrumors.com, useProxy
+host-suffix, manhuaren.com, useProxy
+host-suffix, marketwatch.com, useProxy
+host-suffix, mashable.com, useProxy
+host-suffix, mathjax.org, useProxy
+host-suffix, maven.org, useProxy
+host-suffix, medium.com, useProxy
+host-suffix, mega.co.nz, useProxy
+host-suffix, mega.nz, useProxy
+host-suffix, megaupload.com, useProxy
+host-suffix, microsofttranslator.com, useProxy
+host-suffix, mindnode.com, useProxy
+host-suffix, mlssoccer.com, useProxy
+host-suffix, mobile01.com, useProxy
+host-suffix, modmyi.com, useProxy
+host-suffix, moves-export.com, useProxy
+host-suffix, mp3buscador.com, useProxy
+host-suffix, msedge.net, useProxy
+host-suffix, mycnnews.com, useProxy
+host-suffix, myfontastic.com, useProxy
+host-suffix, name.com, useProxy
+host-suffix, nasa.gov, useProxy
+host-suffix, ndr.de, useProxy
+host-suffix, netdna-cdn.com, useProxy
+host-suffix, newipnow.com, useProxy
+host-suffix, nextmedia.com, useProxy
+host-suffix, nih.gov, useProxy
+host-suffix, nintendo.com, useProxy
+host-suffix, nintendo.net, useProxy
+host-suffix, notion.so, useProxy
+host-suffix, novafile.com, useProxy
+host-suffix, nrk.no, useProxy
+host-suffix, nsstatic.net, useProxy
+host-suffix, nssurge.com, useProxy
+host-suffix, nyt.com, useProxy
+host-suffix, nytimes.com, useProxy
+host-suffix, nytimg.com, useProxy
+host-suffix, nytstyle.com, useProxy
+host-suffix, office365.com, useProxy
+host-suffix, omnigroup.com, useProxy
+host-suffix, onedrive.com, useProxy
+host-suffix, onenote.com, useProxy
+host-suffix, ooyala.com, useProxy
+host-suffix, openvpn.net, useProxy
+host-suffix, openwrt.org, useProxy
+host-suffix, optimizely.com, useProxy
+host-suffix, orkut.com, useProxy
+host-suffix, osha.gov, useProxy
+host-suffix, osxdaily.com, useProxy
+host-suffix, overcast.fm, useProxy
+host-suffix, ow.ly, useProxy
+host-suffix, paddle.com, useProxy
+host-suffix, paddleapi.com, useProxy
+host-suffix, panoramio.com, useProxy
+host-suffix, parallels.com, useProxy
+host-suffix, parse.com, useProxy
+host-suffix, pdfexpert.com, useProxy
+host-suffix, periscope.tv, useProxy
+host-suffix, piaotian.net, useProxy
+host-suffix, picacomic.com, useProxy
+host-suffix, picasaweb.com, useProxy
+host-suffix, pinboard.in, useProxy
+host-suffix, ping.pe, useProxy
+host-suffix, pinterest.com, useProxy
+host-suffix, pixelmator.com, useProxy
+host-suffix, pixiv.net, useProxy
+host-suffix, pixnet.net, useProxy
+host-suffix, playpcesor.com, useProxy
+host-suffix, pokemon.com, useProxy
+host-suffix, polymer-project.org, useProxy
+host-suffix, popo.tw, useProxy
+host-suffix, potato.im, useProxy
+host-suffix, redd.it, useProxy
+host-suffix, prfct.co, useProxy
+host-suffix, proxfree.com, useProxy
+host-suffix, psiphon3.com, useProxy
+host-suffix, ptt.cc, useProxy
+host-suffix, pubu.com.tw, useProxy
+host-suffix, puffinbrowser.com, useProxy
+host-suffix, pushbullet.com, useProxy
+host-suffix, pushwoosh.com, useProxy
+host-suffix, pximg.net, useProxy
+host-suffix, quora.com, useProxy
+host-suffix, quoracdn.net, useProxy
+host-suffix, readingtimes.com.tw, useProxy
+host-suffix, readmoo.com, useProxy
+host-suffix, recaptcha.net, useProxy
+host-suffix, reddit.com, useProxy
+host-suffix, redditmedia.com, useProxy
+host-suffix, reuters.com, useProxy
+host-suffix, rfi.fr, useProxy
+host-suffix, rileyguide.com, useProxy
+host-suffix, rime.im, useProxy
+host-suffix, rsf.org, useProxy
+host-suffix, sciencedaily.com, useProxy
+host-suffix, sciencemag.org, useProxy
+host-suffix, scribd.com, useProxy
+host-suffix, search.com, useProxy
+host-suffix, servebom.com, useProxy
+host-suffix, sfx.ms, useProxy
+host-suffix, shadowsocks.org, useProxy
+host-suffix, shadowverse.jp, useProxy
+host-suffix, sharethis.com, useProxy
+host-suffix, shazam.com, useProxy
+host-suffix, shutterstock.com, useProxy
+host-suffix, sidelinesnews.com, useProxy
+host-suffix, simp.ly, useProxy
+host-suffix, simplenote.com, useProxy
+host-suffix, sketchappsources.com, useProxy
+host-suffix, skype.com, useProxy
+host-suffix, slack.com, useProxy
+host-suffix, slack-edge.com, useProxy
+host-suffix, slack-msgs.com, useProxy
+host-suffix, slideshare.net, useProxy
+host-suffix, smartdnsproxy.com, useProxy
+host-suffix, smh.com.au, useProxy
+host-suffix, snapchat.com, useProxy
+host-suffix, sndcdn.com, useProxy
+host-suffix, sockslist.net, useProxy
+host-suffix, soundcloud.com, useProxy
+host-suffix, sourceforge.net, useProxy
+host-suffix, sowers.org.hk, useProxy
+host-suffix, speedsmart.net, useProxy
+host-suffix, spike.com, useProxy
+host-suffix, squarespace.com, useProxy
+host-suffix, ssa.gov, useProxy
+host-suffix, sstatic.net, useProxy
+host-suffix, st.luluku.pw, useProxy
+host-suffix, stackoverflow.com, useProxy
+host-suffix, starp2p.com, useProxy
+host-suffix, startpage.com, useProxy
+host-suffix, state.gov, useProxy
+host-suffix, staticflickr.com, useProxy
+host-suffix, storify.com, useProxy
+host-suffix, stumbleupon.com, useProxy
+host-suffix, sugarsync.com, useProxy
+host-suffix, supermariorun.com, useProxy
+host-suffix, surfeasy.com.au, useProxy
+host-suffix, surge.run, useProxy
+host-suffix, surrenderat20.net, useProxy
+host-suffix, sydneytoday.com, useProxy
+host-suffix, symauth.com, useProxy
+host-suffix, symcb.com, useProxy
+host-suffix, symcd.com, useProxy
+host-suffix, t.me, useProxy
+host-suffix, t66y.com, useProxy
+host-suffix, tablesgenerator.com, useProxy
+host-suffix, tabtter.jp, useProxy
+host-suffix, talk853.com, useProxy
+host-suffix, talkboxapp.com, useProxy
+host-suffix, talkonly.net, useProxy
+host-suffix, tapbots.com, useProxy
+host-suffix, tapbots.net, useProxy
+host-suffix, tdesktop.com, useProxy
+host-suffix, techcrunch.com, useProxy
+host-suffix, technorati.com, useProxy
+host-suffix, techsmith.com, useProxy
+host-suffix, teddysun.com, useProxy
+host-suffix, telegra.ph, useProxy
+host-suffix, textnow.me, useProxy
+host-suffix, thebobs.com, useProxy
+host-suffix, theinitium.com, useProxy
+host-suffix, thepiratebay.org, useProxy
+host-suffix, theverge.com, useProxy
+host-suffix, thewgo.org, useProxy
+host-suffix, tiltbrush.com, useProxy
+host-suffix, time.com, useProxy
+host-suffix, timeinc.net, useProxy
+host-suffix, tinder.com, useProxy
+host-suffix, tiny.cc, useProxy
+host-suffix, tinychat.com, useProxy
+host-suffix, tinypic.com, useProxy
+host-suffix, tmblr.co, useProxy
+host-suffix, todoist.com, useProxy
+host-suffix, togetter.com, useProxy
+host-suffix, tokyocn.com, useProxy
+host-suffix, tomshardware.com, useProxy
+host-suffix, torcn.com, useProxy
+host-suffix, torrentprivacy.com, useProxy
+host-suffix, torrentproject.se, useProxy
+host-suffix, torrentz.eu, useProxy
+host-suffix, traffichaus.com, useProxy
+host-suffix, trakt.tv, useProxy
+host-suffix, transparency.org, useProxy
+host-suffix, trello.com, useProxy
+host-suffix, trendsmap.com, useProxy
+host-suffix, trulyergonomic.com, useProxy
+host-suffix, trustasiassl.com, useProxy
+host-suffix, tt-rss.org, useProxy
+host-suffix, ttvnw.net, useProxy
+host-suffix, tumblr.co, useProxy
+host-suffix, tumblr.com, useProxy
+host-suffix, turbobit.net, useProxy
+host-suffix, tv.com, useProxy
+host-suffix, tweetdeck.com, useProxy
+host-suffix, tweetmarker.net, useProxy
+host-suffix, twimg.co, useProxy
+host-suffix, twitch.tv, useProxy
+host-suffix, twitthat.com, useProxy
+host-suffix, twtkr.com, useProxy
+host-suffix, twttr.com, useProxy
+host-suffix, txmblr.com, useProxy
+host-suffix, typcn.com, useProxy
+host-suffix, typekit.net, useProxy
+host-suffix, typography.com, useProxy
+host-suffix, ubertags.com, useProxy
+host-suffix, ublock.org, useProxy
+host-suffix, ubnt.com, useProxy
+host-suffix, uchicago.edu, useProxy
+host-suffix, udn.com, useProxy
+host-suffix, ugo.com, useProxy
+host-suffix, uhdwallpapers.org, useProxy
+host-suffix, ulyssesapp.com, useProxy
+host-suffix, unblockdmm.com, useProxy
+host-suffix, unblocksites.co, useProxy
+host-suffix, unpo.org, useProxy
+host-suffix, unsplash.com, useProxy
+host-suffix, untraceable.us, useProxy
+host-suffix, uploaded.net, useProxy
+host-suffix, uProxy.org, useProxy
+host-suffix, upwork.com, useProxy
+host-suffix, urchin.com, useProxy
+host-suffix, urlparser.com, useProxy
+host-suffix, us.to, useProxy
+host-suffix, usertrust.com, useProxy
+host-suffix, usgs.gov, useProxy
+host-suffix, usma.edu, useProxy
+host-suffix, uspto.gov, useProxy
+host-suffix, ustream.tv, useProxy
+host-suffix, v.gd, useProxy
+host-suffix, v2ex.co, useProxy
+host-suffix, v2ray.com, useProxy
+host-suffix, van001.com, useProxy
+host-suffix, vanpeople.com, useProxy
+host-suffix, vansky.com, useProxy
+host-suffix, vbstatic.co, useProxy
+host-suffix, venchina.com, useProxy
+host-suffix, venturebeat.com, useProxy
+host-suffix, veoh.com, useProxy
+host-suffix, verizonwireless.com, useProxy
+host-suffix, viber.com, useProxy
+host-suffix, vid.me, useProxy
+host-suffix, videomega.tv, useProxy
+host-suffix, vidinfo.org, useProxy
+host-suffix, vimeo.com, useProxy
+host-suffix, vimeocdn.com, useProxy
+host-suffix, vimperator.org, useProxy
+host-suffix, vine.co, useProxy
+host-suffix, visibletweets.com, useProxy
+host-suffix, viu.com, useProxy
+host-suffix, vivaldi.com, useProxy
+host-suffix, voachinese.com, useProxy
+host-suffix, vocativ.com, useProxy
+host-suffix, vox-cdn.com, useProxy
+host-suffix, vpnaccount.org, useProxy
+host-suffix, vpnbook.com, useProxy
+host-suffix, vpngate.net, useProxy
+host-suffix, vsco.co, useProxy
+host-suffix, vultr.com, useProxy
+host-suffix, vzw.com, useProxy
+host-suffix, w.org, useProxy
+host-suffix, w3schools.com, useProxy
+host-suffix, wattpad.com, useProxy
+host-suffix, web2project.net, useProxy
+host-suffix, webfreer.com, useProxy
+host-suffix, weblagu.com, useProxy
+host-suffix, websnapr.com, useProxy
+host-suffix, webtype.com, useProxy
+host-suffix, webwarper.net, useProxy
+host-suffix, wenxuecity.com, useProxy
+host-suffix, westca.com, useProxy
+host-suffix, westpoint.edu, useProxy
+host-suffix, whatbrowser.org, useProxy
+host-suffix, wikileaks.info, useProxy
+host-suffix, wikileaks.org, useProxy
+host-suffix, wikileaks-forum.com, useProxy
+host-suffix, wikimedia.org, useProxy
+host-suffix, wikipedia.com, useProxy
+host-suffix, wikipedia.org, useProxy
+host-suffix, windows.com, useProxy
+host-suffix, windows.net, useProxy
+host-suffix, wn.com, useProxy
+host-suffix, wordpress.com, useProxy
+host-suffix, workflow.is, useProxy
+host-suffix, worldcat.org, useProxy
+host-suffix, wow.com, useProxy
+host-suffix, wp.com, useProxy
+host-suffix, wsj.com, useProxy
+host-suffix, wsj.net, useProxy
+host-suffix, wwitv.com, useProxy
+host-suffix, xanga.com, useProxy
+host-suffix, xclient.info, useProxy
+host-suffix, xda-developers.com, useProxy
+host-suffix, xeeno.com, useProxy
+host-suffix, xiti.com, useProxy
+host-suffix, xuite.net, useProxy
+host-suffix, xvideos.com, useProxy
+host-suffix, yahoo.com, useProxy
+host-suffix, yahooapis.com, useProxy
+host-suffix, yasni.co.uk, useProxy
+host-suffix, yastatic.net, useProxy
+host-suffix, yeeyi.com, useProxy
+host-suffix, yesasia.com, useProxy
+host-suffix, yes-news.com, useProxy
+host-suffix, yidio.com, useProxy
+host-suffix, yimg.com, useProxy
+host-suffix, ying.com, useProxy
+host-suffix, yorkbbs.ca, useProxy
+host-suffix, youmaker.com, useProxy
+host-suffix, yourlisten.com, useProxy
+host-suffix, youtu.be, useProxy
+host-suffix, yoyo.org, useProxy
+host-suffix, ytimg.com, useProxy
+host-suffix, zacebook.com, useProxy
+host-suffix, zalmos.com, useProxy
+host-suffix, zaobao.com.sg, useProxy
+host-suffix, zeutch.com, useProxy
+host-suffix, zynamics.com, useProxy
+	
+# > Force some hosts which are fucked by GFW while resolving DNS, or do not respect the system Proxy	
+host-keyword, appledaily, useProxy
+host-keyword, beetalk, useProxy
+host-keyword, blogspot, useProxy
+host-keyword, dropbox, useProxy
+host-keyword, facebook, useProxy
+host-keyword, github, useProxy
+host-keyword, instagram, useProxy
+host-keyword, porn, useProxy
+host-keyword, telegram, useProxy
+host-keyword, twitter, useProxy
+host-keyword, whatsapp, useProxy
+host-keyword, google, useProxy
+host-suffix, 1e100.net, useProxy
+host-suffix, 2mdn.net, useProxy
+host-suffix, abc.xyz, useProxy
+host-suffix, akamai.net, useProxy
+host-suffix, appspot.com, useProxy
+host-suffix, autodraw.com, useProxy
+host-suffix, bandwagonhost.com, useProxy
+host-suffix, blogblog.com, useProxy
+host-suffix, chromeexperiments.com, useProxy
+host-suffix, creativelab5.com, useProxy
+host-suffix, crittercism.com, useProxy
+host-suffix, culturalspot.org, useProxy
+host-suffix, dartlang.org, useProxy
+host-suffix, fb.com, useProxy
+host-suffix, fb.me, useProxy
+host-suffix, fbcdn.net, useProxy
+host-suffix, fbsbx.com, useProxy
+host-suffix, gcr.io, useProxy
+host-suffix, gmail.com, useProxy
+host-suffix, gosetsuden.jp, useProxy
+host-suffix, gvt1.com, useProxy
+host-suffix, gwtproject.org, useProxy
+host-suffix, heroku.com, useProxy
+host-suffix, html5rocks.com, useProxy
+host-suffix, keyhole.com, useProxy
+host-suffix, kobo.com, useProxy
+host-suffix, kobobooks.com, useProxy
+host-suffix, madewithcode.com, useProxy
+host-suffix, material.io, useProxy
+host-suffix, messenger.com, useProxy
+host-suffix, netmarble.com, useProxy
+host-suffix, nianticlabs.com, useProxy
+host-suffix, pinimg.com, useProxy
+host-suffix, pubnub.com, useProxy
+host-suffix, scdn.co, useProxy
+host-suffix, t.co, useProxy
+host-suffix, tensorflow.org, useProxy
+host-suffix, toggleable.com, useProxy
+host-suffix, torproject.org, useProxy
+host-suffix, twimg.com, useProxy
+host-suffix, twitpic.com, useProxy
+host-suffix, unfiltered.news, useProxy
+host-suffix, waveprotocol.org, useProxy
+host-suffix, webmproject.org, useProxy
+host-suffix, webrtc.org, useProxy
+	
+# > V2EX	
+host-suffix, v2ex.com, useProxy
+	
+host-keyword, dlercloud, useProxy
+host-suffix, dler.cloud, useProxy
+	
+# > Amazon	
+ip-cidr, 13.32.0.0/16, no-resolve, useProxy
+ip-cidr, 13.33.0.0/16, no-resolve, useProxy
+ip-cidr, 13.35.0.0/17, no-resolve, useProxy
+ip-cidr, 18.184.0.0/15, no-resolve, useProxy
+ip-cidr, 18.194.0.0/15, no-resolve, useProxy
+ip-cidr, 18.208.0.0/13, no-resolve, useProxy
+ip-cidr, 18.232.0.0/14, no-resolve, useProxy
+ip-cidr, 52.200.0.0/13, no-resolve, useProxy
+ip-cidr, 52.58.0.0/15, no-resolve, useProxy
+ip-cidr, 52.74.0.0/16, no-resolve, useProxy
+ip-cidr, 52.77.0.0/16, no-resolve, useProxy
+ip-cidr, 52.84.0.0/15, no-resolve, useProxy
+ip-cidr, 54.156.0.0/14, no-resolve, useProxy
+ip-cidr, 54.226.0.0/15, no-resolve, useProxy
+ip-cidr, 54.230.156.0/22, no-resolve, useProxy
+ip-cidr, 54.93.0.0/16, no-resolve, useProxy
+	
+# > Facebook	
+ip-cidr, 103.4.96.0/22, no-resolve, useProxy
+ip-cidr, 129.134.0.0/17, no-resolve, useProxy
+ip-cidr, 157.240.0.0/17, no-resolve, useProxy
+ip-cidr, 173.252.64.0/19, no-resolve, useProxy
+ip-cidr, 173.252.96.0/19, no-resolve, useProxy
+ip-cidr, 179.60.192.0/22, no-resolve, useProxy
+ip-cidr, 185.60.216.0/22, no-resolve, useProxy
+ip-cidr, 204.15.20.0/22, no-resolve, useProxy
+ip-cidr, 31.13.24.0/21, no-resolve, useProxy
+ip-cidr, 31.13.64.0/18, no-resolve, useProxy
+ip-cidr, 45.64.40.0/22, no-resolve, useProxy
+ip-cidr, 66.220.144.0/20, no-resolve, useProxy
+ip-cidr, 69.171.224.0/19, no-resolve, useProxy
+ip-cidr, 69.63.176.0/20, no-resolve, useProxy
+ip-cidr, 74.119.76.0/22, no-resolve, useProxy
+	
+# > Google	
+ip-cidr, 173.194.0.0/16, no-resolve, useProxy
+ip-cidr, 74.125.0.0/16, no-resolve, useProxy
+	
+# > Kakao Talk	
+ip-cidr, 1.201.0.0/24, no-resolve, useProxy
+ip-cidr, 103.246.56.0/22, no-resolve, useProxy
+ip-cidr, 103.27.148.0/22, no-resolve, useProxy
+ip-cidr, 110.76.140.0/22, no-resolve, useProxy
+ip-cidr, 113.61.104.0/22, no-resolve, useProxy
+ip-cidr, 27.0.236.0/22, no-resolve, useProxy
+	
+# > LINE	
+ip-cidr, 103.2.28.0/22, no-resolve, useProxy
+ip-cidr, 119.235.224.0/21, no-resolve, useProxy
+ip-cidr, 119.235.232.0/23, no-resolve, useProxy
+ip-cidr, 119.235.235.0/24, no-resolve, useProxy
+ip-cidr, 119.235.236.0/23, no-resolve, useProxy
+ip-cidr, 125.6.146.0/24, no-resolve, useProxy
+ip-cidr, 125.6.149.0/24, no-resolve, useProxy
+ip-cidr, 125.6.190.0/24, no-resolve, useProxy
+ip-cidr, 125.209.208.0/20, no-resolve, useProxy
+ip-cidr, 203.104.103.0/24, no-resolve, useProxy
+ip-cidr, 203.104.128.0/20, no-resolve, useProxy
+ip-cidr, 203.174.66.64/26, no-resolve, useProxy
+ip-cidr, 203.174.77.0/24, no-resolve, useProxy
+	
+# > Potato Chat	
+ip-cidr, 13.251.24.157/24, no-resolve, useProxy
+ip-cidr, 13.251.41.203/24, no-resolve, useProxy
+ip-cidr, 17.252.156.147/24, no-resolve, useProxy
+ip-cidr, 17.252.157.26/24, no-resolve, useProxy
+	
+# > SoftLayer	
+ip-cidr, 74.86.0.0/16, no-resolve, useProxy
+ip-cidr, 75.126.0.0/16, no-resolve, useProxy
+ip-cidr, 174.37.0.0/16, no-resolve, useProxy
+ip-cidr, 208.43.0.0/16, no-resolve, useProxy
+	
+# > Telegram	
+ip-cidr, 91.108.4.0/22, no-resolve, useProxy
+ip-cidr, 91.108.8.0/22, no-resolve, useProxy
+ip-cidr, 91.108.56.0/22, no-resolve, useProxy
+ip-cidr, 149.154.160.0/20, no-resolve, useProxy
+ip-cidr, 149.154.164.0/22, no-resolve, useProxy

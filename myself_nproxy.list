@@ -1,0 +1,5 @@
+host-suffix, gamersky.com, noProxy
+	
+user-agent, *splashtop*, noProxy
+user-agent, *Splashtop*, noProxy
+host-keyword, splashtop, noProxy

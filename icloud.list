@@ -1,0 +1,7 @@
+user-agent, cloudd*, iCloud
+user-agent, CloudKit*, iCloud
+	
+host-suffix, apple-cloudkit.com, iCloud
+host-suffix, icloud.com, iCloud
+host-suffix, icloud-content.com, iCloud
+host-suffix, me.com, iCloud

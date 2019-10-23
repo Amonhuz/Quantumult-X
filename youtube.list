@@ -1,0 +1,7 @@
+# > Youtube	
+user-agent, *youtube*, Youtube
+user-agent, YouTube*, Youtube
+host-keyword, youtube, Youtube
+host-suffix, googlevideo.com, Youtube
+host-suffix, gvt2.com, Youtube
+host-suffix, youtu.be, Youtube

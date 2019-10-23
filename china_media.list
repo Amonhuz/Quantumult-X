@@ -1,0 +1,42 @@
+# > Bilibili	
+host-keyword, bilibili, noProxy
+host-suffix, acg.tv, noProxy
+host-suffix, acgvideo.com, noProxy
+host-suffix, b23.tv, noProxy
+host-suffix, biliapi.com, noProxy
+host-suffix, biliapi.net, noProxy
+host-suffix, bilibili.com, noProxy
+host-suffix, biligame.com, noProxy
+host-suffix, biligame.net, noProxy
+host-suffix, hdslb.com, noProxy
+host-suffix, im9.com, noProxy
+user-agent, *bili*, noProxy
+	
+# > IQIYI	
+user-agent, QIYI*, noProxy
+user-agent, iQiYi*, noProxy
+host-keyword, qiyi, noProxy
+host-suffix, qy.net, noProxy
+ip-cidr, 101.227.0.0/16, no-resolve, noProxy
+ip-cidr, 101.224.0.0/13, no-resolve, noProxy
+ip-cidr, 119.176.0.0/12, no-resolve, noProxy
+	
+# > letv	
+host-suffix, api.mob.app.letv.com, noProxy
+	
+# > MOO	
+user-agent, MOO*, noProxy
+user-agent, TencentMidasConnect*, noProxy
+	
+# > NeteaseMusic	
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, noProxy
+user-agent, NeteaseMusic*, noProxy
+host-suffix, 163yun.com, noProxy
+host-suffix, music.126.net, noProxy
+host-suffix, music.163.com, noProxy
+	
+# > Tencent Video	
+host-suffix, vv.video.qq.com, noProxy
+	
+# > Youku	
+ip-cidr, 106.11.0.0/16, no-resolve, noProxy
