@@ -1,0 +1,6 @@
+user-agent, *Vengeance*, useProxy
+user-agent, *Origins*, useProxy
+user-agent, *Twitch*, useProxy
+user-agent, *VoiceApp*, useProxy
+user-agent, *GVDialer*, useProxy
+user-agent, *Reeder*, useProxy
