@@ -1,4 +1,4 @@
-# > UA	
+# > UA
 user-agent, hide*, noProxy
 user-agent, MicroMessenger*, noProxy
 // user-agent, PayPal*, noProxy
@@ -7,44 +7,40 @@ user-agent, TIM*, noProxy
 user-agent, ting_en, noProxy
 user-agent, WebTorrent*, noProxy
 user-agent, WeChat*, noProxy
-	
-# > Beplay	
+
+# > Beplay
 host-keyword, beplay, noProxy
-	
-# > Blizzard	
+
+# > Blizzard
 host-suffix, battle.net, noProxy
 host-suffix, battlenet.com, noProxy
 host-suffix, blizzard.com, noProxy
-	
-# > Prior	
+
+# > Prior
 host, client.amplifi.com, noProxy
 host, ip.bjango.com, noProxy
 host-suffix, alphassl.com, noProxy
 host-suffix, edu.cn, noProxy
-	
-# > Sony	
+
+# > Sony
 user-agent, RemotePlay*, noProxy
 host-suffix, playstation.com, noProxy
 host-suffix, playstation.net, noProxy
 host-suffix, playstationnetwork.com, noProxy
 host-suffix, sony.com, noProxy
 host-suffix, sonyentertainmentnetwork.com, noProxy
-	
-# > Steam	
+
+# > Steam
 user-agent, Steam*, noProxy
 host-suffix, steamcontent.com, noProxy
-	
-# > TeamViewer	
+
+# > TeamViewer
 ip-cidr, 185.188.32.0/24, noProxy
 ip-cidr, 185.188.33.0/24, noProxy
 ip-cidr, 185.188.34.0/24, noProxy
 ip-cidr, 185.188.35.0/24, noProxy
-ip-cidr6, 2a0b:b580::/48, noProxy
-ip-cidr6, 2a0b:b581::/48, noProxy
-ip-cidr6, 2a0b:b582::/48, noProxy
-ip-cidr6, 2a0b:b583::/48, noProxy
-	
-# Domestic	
+
+# Domestic
 host-suffix, 12306.cn, noProxy
 host-suffix, 12306.com, noProxy
 host-suffix, 126.net, noProxy
@@ -295,5 +291,5 @@ host-suffix, zhihu.com, noProxy
 host-suffix, zhimg.com, noProxy
 host-suffix, zimuzu.tv, noProxy
 host-suffix, zmz002.com, noProxy
-	
+
 ip-cidr, 1.255.62.0/24, noProxy
