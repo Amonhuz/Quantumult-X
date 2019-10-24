@@ -122,7 +122,6 @@ host-suffix, fresh-ideas.cc, noProxy
 host-suffix, geetest.com, noProxy
 host-suffix, godic.net, noProxy
 host-suffix, goodread.com, noProxy
-host-suffix, google.cn, noProxy
 host-suffix, gtimg.com, noProxy
 host-suffix, haibian.com, noProxy
 host-suffix, hao123.com, noProxy
@@ -172,7 +171,6 @@ host-suffix, miwifi.com, noProxy
 host-suffix, mob.com, noProxy
 host-suffix, moji.com, noProxy
 host-suffix, moke.com, noProxy
-host-suffix, mtalk.google.com, noProxy
 host-suffix, mxhichina.com, noProxy
 host-suffix, myqcloud.com, noProxy
 host-suffix, myunlu.com, noProxy
